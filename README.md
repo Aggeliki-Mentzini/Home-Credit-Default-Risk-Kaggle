@@ -22,3 +22,10 @@ previous_application.csv: All prior applications for Home Credit loans. Each row
 installments_payments.csv: Repayment history for prior Home Credit loans, with one row per payment (or missed payment).
 
 HomeCredit_columns_description.csv: Descriptions of columns in all datasets.
+
+
+
+
+NOTES
+
+- The XGBoost model (eXtreme Gradient Boosting) is a powerful, optimized implementation of gradient boosting, a machine learning algorithm used primarily for classification and regression tasks. It has become one of the most popular algorithms in data science and competitive machine learning because of its high performance, efficiency, and flexibility.
